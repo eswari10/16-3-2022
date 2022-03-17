@@ -1,0 +1,21 @@
+
+a=input()
+
+l1=list (a)
+
+
+res=[]
+
+for i in l1:
+
+if i not in res:
+
+res.append(i)
+
+for i in res:
+Print (i,end=' ')
+
+
+for i in :
+
+print(i, e
